@@ -20,9 +20,9 @@ Course deadlines are spread across different platforms, making it difficult to t
 - Browser localStorage for JSON task storage
 
 ## Design Documents
-- [Design document](docs/design-doc.pdf)
-- [Eisenhower matrix](docs/eisenhower-matrix.pdf)
-- [Editable system diagram](docs/system-diagram.drawio)
+- [Design document](docs/Design Document.pdf)
+- [Eisenhower matrix](docs/ElsenHower Matrix.pdf)
+- [Editable system diagram](docs/Flowchart.jpg)
 
 ### System Diagram
 ![IntelliStudy system diagram](docs/system-diagram.png)
